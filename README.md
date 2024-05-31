@@ -24,6 +24,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kwonj5549&show_icons=true&theme=radical&rank_icon=github&line_height=33.5" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kwonj5549&show_icons=true&theme=radical&rank_icon=github&line_height=34" style="display: inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonj5549&theme=radical&langs_count=4" style="display: inline-block;"/>
 </p>

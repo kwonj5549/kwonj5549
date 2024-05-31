@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=pytorch"/>
+   <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift"/>
   

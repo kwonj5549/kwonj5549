@@ -1,5 +1,5 @@
 ![Header](header.png)
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/Kwonj5549/Kwonj5549/blob/main/icons8-laptop.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>

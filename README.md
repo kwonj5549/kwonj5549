@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<h2 align="center">Github Stats</h2>
+<h2 align="center">GitHub Stats</h2>
+
 ![Kwonj5549's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonj5549&show_icons=true&theme=radical&rank_icon=github&line_height=33)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonj5549&theme=radical&langs_count=4)

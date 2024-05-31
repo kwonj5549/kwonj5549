@@ -2,7 +2,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-swift-black?style=flat-square&logo=swift"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
